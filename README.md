@@ -1,7 +1,8 @@
-pelican-blueidea
+pelican-bluemoon
 ================
 
-A theme for Pelican inspired by the default theme notmyidea.
+A theme for Pelican derived from the theme blueidea, which was inspired by the
+default theme notmyidea.
 
 Features
 --------
@@ -12,10 +13,6 @@ Features
 * Ability to sort pages using a specific attribute like the date or any additionnal attribute.
 * Ability to hide the author's name or the article category in the articles info.
 * Icons for the following social networks: Facebook, Github, Google+, LastFM, LinkedIN, RSS/ATOM, Twitter, Vimeo and Youtube.
-
-Preview
--------
-![Screenshot-1](https://raw.github.com/blueicefield/pelican-blueidea/master/screenshot-1.png)
 
 Settings
 --------
@@ -48,7 +45,3 @@ Settings
 
 	# Social widget
 	SOCIAL
-
-Browsers compatibility
-----------------------
-Only tested with latest releases of Mozilla Firefox and Chromium/Chrome.
