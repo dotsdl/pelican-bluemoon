@@ -18,7 +18,7 @@
 /***** Global *****/
 /* Body */
 body {
-    background: #ededed;
+    background: #ffffff;
     color: #333333;
     font-size: 87.5%; /* Base font size: 14px */
     font-family: 'Trebuchet MS', Trebuchet, 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -165,7 +165,7 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 	
 	/* Main Nav */
 	#banner nav {
-		background: #ededed;
+		background: #ffffff;
 		font-size: 1.343em;
 		height: 40px;
 		line-height: 30px;
@@ -191,7 +191,7 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 	#banner nav a:hover, #banner nav a:active,
 	#banner nav .active a:link, #banner nav .active a:visited {
 		background: #1793d0;
-		color: #ededed;
+		color: #ffffff;
 		text-shadow: none !important;
 	}
 	
@@ -212,7 +212,7 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 		border-radius: 0px;
 		-moz-border-radius: 0px;
 		-webkit-border-radius: 0px;
-		color: #ededed;
+		color: #ffffff;
 		float: right;
 		height: 25px;
 		margin-top: 6px;
@@ -224,12 +224,12 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 
 	#banner #search input:focus {
 		background: #272822;
-		box-shadow: inset 0 0 5px #ededed;
+		box-shadow: inset 0 0 5px #ffffff;
 	}
 
 	/* Submenu */
 	#banner #submenu {
-		background-color: #ededed;
+		background-color: #ffffff;
 		border: 0px;
 		border-radius: 0 0 5px 5px;
 		-moz-border-radius: 0 0 5px 5px;
@@ -255,7 +255,7 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 		border-top: 1px solid #1793d0;
 		-moz-border-top: 1px solid #1793d0;
 		-webkit-border-top: 1px solid #1793d0;
-		color: #ededed;
+		color: #ffffff;
 		text-decoration: none;
 	}
 	#banner #submenu .active a:link, #banner #submenu .active a:visited {
@@ -263,7 +263,7 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 		border-top: 1px solid #1793d0;
 		-moz-border-top: 1px solid #1793d0;
 		-webkit-border-top: 1px solid #1793d0;
-		color: #ededed;
+		color: #ffffff;
 		text-decoration: none;
 	}
 	#banner #submenu li:first-child a {
@@ -276,7 +276,7 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 	Featured
 *****************/
 #featured {
-	background: #ededed;
+	background: #ffffff;
 	margin-bottom: 2em;
 	overflow: hidden;
 	padding: 20px;
@@ -299,13 +299,13 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 #featured h3 {font-size: 1.429em; margin-bottom: .5em;}
 
 #featured h3 a:link, #featured h3 a:visited {color: #333333; text-decoration: none;}
-#featured h3 a:hover, #featured h3 a:active {color: #ededed;}
+#featured h3 a:hover, #featured h3 a:active {color: #ffffff;}
 
 /*
 	Body
 *****************/
 #content {
-	background: #ededed;
+	background: #ffffff;
 	/*margin-bottom: 2em;*/
 	overflow: hidden;
 	padding: 20px 20px;
@@ -322,7 +322,7 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 #extras {
 	margin: 0 auto 0 auto;
 	overflow: hidden;
-	background: #ededed;
+	background: #ffffff;
 	border-radius: 0 0 10px 10px;
 	-moz-border-radius: 0 0 10px 10px;
 	-webkit-border-radius: 0 0 10px 10px;
@@ -330,7 +330,7 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 }
 
 #extras ul {list-style: none; margin: 0;}
-/*#extras li {border-bottom: 1px solid #ededed;}*/
+/*#extras li {border-bottom: 1px solid #ffffff;}*/
 #extras li {margin-top: 0;}
 #extras h2 {
 	color: #1793d0;
@@ -347,7 +347,7 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 	padding: .3em .25em;
 }
 
-#extras a:hover, #extras a:active {background: #1793d0; color: #ededed;}
+#extras a:hover, #extras a:active {background: #1793d0; color: #ffffff;}
 
 	/* Blogroll */
 	#extras .blogroll {
@@ -403,7 +403,7 @@ li:last-child .hentry, #content > .hentry {border: 0; margin: 0;}
 .hentry img{display : none ;}
 .entry-title {font-size: 3em; margin-bottom: 10px; margin-top: 0;}
 .entry-title a:link, .entry-title a:visited {text-decoration: none; color: #333;}
-.entry-title a:visited {background-color: #ededed;}
+.entry-title a:visited {background-color: #ffffff;}
 
 .hentry .post-info * {font-style: normal;}
 
